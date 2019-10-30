@@ -169,6 +169,8 @@ namespace AwesomeCalculator
                         break;
                 }
 
+
+
                 selection = ValidateMenuSelection();
 
             }
