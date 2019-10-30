@@ -15,6 +15,7 @@ namespace AwesomeCalculator
         public Calc()
         {
             firstNumber = 1;
+
             secondNumber = 1;
         }
 
