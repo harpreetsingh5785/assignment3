@@ -1,0 +1,9 @@
+C:\Users\jass\source\repos\AwesomeCalculator\AwesomeCalculator\bin\Debug\AwesomeCalculator.exe.config
+C:\Users\jass\source\repos\AwesomeCalculator\AwesomeCalculator\bin\Debug\AwesomeCalculator.exe
+C:\Users\jass\source\repos\AwesomeCalculator\AwesomeCalculator\bin\Debug\AwesomeCalculator.pdb
+C:\Users\jass\source\repos\AwesomeCalculator\AwesomeCalculator\bin\Debug\nunit.framework.dll
+C:\Users\jass\source\repos\AwesomeCalculator\AwesomeCalculator\bin\Debug\nunit.framework.xml
+C:\Users\jass\source\repos\AwesomeCalculator\AwesomeCalculator\obj\Debug\AwesomeCalculator.csprojAssemblyReference.cache
+C:\Users\jass\source\repos\AwesomeCalculator\AwesomeCalculator\obj\Debug\AwesomeCalculator.csproj.CopyComplete
+C:\Users\jass\source\repos\AwesomeCalculator\AwesomeCalculator\obj\Debug\AwesomeCalculator.exe
+C:\Users\jass\source\repos\AwesomeCalculator\AwesomeCalculator\obj\Debug\AwesomeCalculator.pdb
